@@ -22,15 +22,10 @@ class ViewController: UIViewController {
         height: swoosh.frame.size.height)
         
         bgimg.frame = view.frame*/
-        
-        
             }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    @IBAction func unwindFromSkillVS(unwindSegue: UIStoryboardSegue) {
+        
     }
-
-
 }
 
