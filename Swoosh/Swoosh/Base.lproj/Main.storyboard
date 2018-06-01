@@ -10,10 +10,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--WelcomeVC-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Swoosh" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="WelcomeVC" customModule="Swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -94,10 +94,10 @@
             </objects>
             <point key="canvasLocation" x="133.59999999999999" y="151.57421289355324"/>
         </scene>
-        <!--View Controller-->
+        <!--LeagueVC-->
         <scene sceneID="354-86-KjW">
             <objects>
-                <viewController id="58f-Xt-paJ" sceneMemberID="viewController">
+                <viewController id="58f-Xt-paJ" customClass="LeagueVC" customModule="Swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="PNt-SA-XKY"/>
                         <viewControllerLayoutGuide type="bottom" id="4cR-Zr-X3h"/>
@@ -217,10 +217,10 @@
             </objects>
             <point key="canvasLocation" x="868" y="151.57421289355324"/>
         </scene>
-        <!--View Controller-->
+        <!--SkillVC-->
         <scene sceneID="q3h-Qz-hJG">
             <objects>
-                <viewController id="A47-FH-zrV" sceneMemberID="viewController">
+                <viewController id="A47-FH-zrV" customClass="SkillVC" customModule="Swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="PG2-ee-UD9"/>
                         <viewControllerLayoutGuide type="bottom" id="fWL-Bl-vtX"/>
